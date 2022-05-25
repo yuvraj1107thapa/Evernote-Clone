@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+# This is an Evernote Clone which is a ReactJS based Web Application to save your personal notes
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### This is a ReactJS based web application
 
-## Available Scripts
+To get started and run the app:
 
-In the project directory, you can run:
+- Clone the project.
+- Run `npm install` to install the corresponding node packages
+- Run `npm start` to run the app on [http://localhost:3000](http://localhost:3000)
 
-### `npm start`
+Features Of the application:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Create new notes with a title and content
+- Full fletched text editor implemented using React Quill
+- Cloud storage to store all your notes permanently on Firebase and Firestore
+- Delete and edit notes body along with title
+- Minimalistic and simple UI
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![1](https://user-images.githubusercontent.com/79577256/170261423-e63355c0-9bb4-469f-9c9f-346935fb16d8.png)
+![2](https://user-images.githubusercontent.com/79577256/170261422-209d1319-6d98-4bff-b59f-df848048b09a.png)
+![3](https://user-images.githubusercontent.com/79577256/170261424-53a09992-127a-4670-bfc4-14453a344f7a.png)
+![4](https://user-images.githubusercontent.com/79577256/170261425-5baf4e79-9b7d-452b-8b70-71d60f7ac0c3.png)
